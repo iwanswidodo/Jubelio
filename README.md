@@ -9,7 +9,7 @@ This repository contains Cypress tests for the Jubelio Test.
 First, clone the repository using the link below:
 
 ```sh
-git clone github_link
+git clone https://github.com/iwanswidodo/Jubelio.git
 ```
 Make sure you are on the main branch.
 
