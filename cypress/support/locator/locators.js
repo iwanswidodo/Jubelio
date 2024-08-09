@@ -23,7 +23,7 @@ export const dashboardPenjualan = {
     choose_lokasi: '[placeholder="Pilih lokasi"]',
     keterangan: '[placeholder="Masukkan keterangan"]',
     add_product: '.css-1o9xw9j > .MuiButton-root',
-    product: '.jss27',
+    product: '[data-index="0"] > [style="height: 74px;"] > .css-1rjpksd',
     validate_product: '.grid-cell-selected > .grid-cell-content',
     btn_save: 'button[title="save"]',
 
